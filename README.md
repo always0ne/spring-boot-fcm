@@ -16,6 +16,7 @@ This Project is for Quick Start Spring boot fcm push
 ### Dependencies
 - JDK11
 - All dependencies are managed by gradle
+- **should create firebase project and add firebase adminsdk key at ...../resources/firebase/firebase-adminSdk-key.json**
 
 ## Authors
   - [Always0ne](https://github.com/Always0ne) - **SangIl Hwang** - <si8363@soongsil.ac.kr>
